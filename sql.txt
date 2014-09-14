@@ -1,4 +1,8 @@
 #CRIA TABELA ONDE TERÁ OS ADMINISTRADORES.
+# criação da base de dados
+
+CREATE DATABASE banco_de_dados;
+
 
 CREATE TABLE usuarios
 (
