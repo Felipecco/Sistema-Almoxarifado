@@ -1,6 +1,6 @@
 <div id="menubv"> 
   <ul>
-<? 
+<?php
 	if ($_SESSION['nivel'] == 10){ 
 		echo "<li><a href=\"cadastroproduto.php\" title=\"Verificar, alterar Preços\">Cadastrar Produto</a></li>";
 		echo "<li><a href=\"criatipo.php\" title=\"Verificar, alterar Preços\">Verificar Tipos</a></li>"; 

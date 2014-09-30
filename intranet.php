@@ -1,4 +1,5 @@
-<?php require("include/arruma_link.php");
+<?php 
+require("include/arruma_link.php");
 session_start();
 if (! isset($_SESSION['id'])){
 header("Location: index.php?erro=1");
@@ -7,7 +8,7 @@ exit;
  ?>
 <html>
 <head>
-<title>EVOLUTION - INTRANET</title>
+<title>Sistemas De Almoxarifado</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="css/estilos.css" rel="stylesheet" type="text/css">
 <style type="text/css">

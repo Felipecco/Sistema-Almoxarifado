@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Controle de Estoque - Desenvolvido por Rodrigo Urbinati Maia - rodurma@yahoo.com.br</title>
+<title>Controle de Almoxarifado - Desenvolvido por Felipe Cesar Rodrigues</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="css/estilos.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -22,7 +22,7 @@
 <body>
 <div id="meio">
   <br>
-  <p><center><img src="imagens/img_logo.gif" border="0"></center><br>
+  <p><center><img src="imagens/login.jpg" border="0"></center><br>
   </p>
   <center>
 <form action="testar.php" method="post" name="formulario">

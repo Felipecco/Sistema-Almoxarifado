@@ -18,10 +18,10 @@
 //aqui cria um log de acesso.		
 $arquivo = "./dataatualizada/log.txt";
 $linha1 = "[".date("d/m/Y - H:i:s")."]  ";
-$linha2 = $_SESSION['REMOTE_ADDR']."  ";
-$linha3 = $_SERVER['PHP_SELF']."\n";
-$texto  = $linha1.$linha2.$linha3;
-$abrindo = fopen($arquivo, 'a+');
-fwrite($abrindo, $texto);
-fclose($abrindo);	
+//$linha2 = $_SESSION['REMOTE_ADDR']."  ";
+//$linha3 = $_SERVER['PHP_SELF']."\n";
+//$texto  = $linha1.$linha2.$linha3;
+//$abrindo = fopen($arquivo, 'a+');
+//fwrite($abrindo, $texto);
+//fclose($abrindo);	
 ?>
