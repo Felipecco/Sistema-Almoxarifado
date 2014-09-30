@@ -2,6 +2,7 @@
 [14/09/2014 - 03:00:18]  ::1  /docs/Sistema-Almoxarifado/index.php
 [14/09/2014 - 03:00:47]    /docs/Sistema-Almoxarifado/intranet.php
 [14/09/2014 - 03:00:48]  ::1  /docs/Sistema-Almoxarifado/index.php
+<<<<<<< HEAD
 [14/09/2014 - 03:14:42]  127.0.0.1  /Sistema-Almoxarifado/index.php
 [14/09/2014 - 03:20:41]  127.0.0.1  /Sistema-Almoxarifado/index.php
 [14/09/2014 - 03:34:14]  127.0.0.1  /Sistema-Almoxarifado/index.php
@@ -27,3 +28,11 @@
 [14/09/2014 - 03:55:56]  127.0.0.1  /Sistema-Almoxarifado/index.php
 [14/09/2014 - 14:44:36]  127.0.0.1  /Sistema-Almoxarifado/index.php
 [14/09/2014 - 14:46:26]  127.0.0.1  /Sistema-Almoxarifado/index.php
+=======
+[14/09/2014 - 03:11:14]  ::1  /docs/Sistema-Almoxarifado/index.php
+[14/09/2014 - 03:11:19]  ::1  /docs/Sistema-Almoxarifado/index.php
+[14/09/2014 - 03:11:29]  ::1  /docs/Sistema-Almoxarifado/index.php
+[14/09/2014 - 03:11:55]  ::1  /docs/Sistema-Almoxarifado/index.php
+[14/09/2014 - 03:16:44]  ::1  /docs/Sistema-Almoxarifado/index.php
+[14/09/2014 - 03:16:52]    /docs/Sistema-Almoxarifado/intranet.php
+>>>>>>> origin/master

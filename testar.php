@@ -1,9 +1,14 @@
 <?php
+<<<<<<< HEAD
+=======
+	require('include/conecta.php');
+>>>>>>> origin/master
 	session_start();
 	if (!isset($_POST['senha'])){
 		echo "<script>alert(\"Preencha corretamente!\");history.back(-1);</script>";
 		exit;
 	}
+<<<<<<< HEAD
 	$senha = ($_POST['senha']);
 
 	 $base = mysql_connect('localhost','root','');
@@ -14,10 +19,12 @@
 	
 	mysql_select_db("banco_de_dados", $base);
 	
+=======
+	$senha = $_POST['senha'];
+>>>>>>> origin/master
 	$sql = "SELECT * FROM usuarios WHERE senha = '$senha'";
 	$tabela = mysql_query($sql, $base);
 	$registro = mysql_num_rows($tabela);
-	
 	if ($registro == 0){
 	header("Location: index.php?errologin=1");
 	exit;
